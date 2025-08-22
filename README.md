@@ -63,7 +63,6 @@ The project includes data preprocessing, exploratory data analysis (EDA), featur
 
 1. Clone the repository 📂  
 2. Install dependencies:
-```bash
 pip install -r requirements.txt
 
 3. Run the Streamlit app:
@@ -79,7 +78,7 @@ streamlit run app.py
 
 ---
 
-💾 Saved Models
+## 💾 Saved Models
 
 mlp_model.pkl → Trained MLP classifier 🧠
 
