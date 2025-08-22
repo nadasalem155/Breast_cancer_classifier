@@ -89,4 +89,4 @@ scaler.pkl → MinMaxScaler for normalization 🔧
 ---
 ## 📄 Presentation
 
-🌐 **View Project Presentation:** [Breast Cancer Prediction Presentation](https://your-presentation-link.com)
+🌐 **View Project Presentation:** [Breast Cancer Prediction Presentation](presentation.pdf)
